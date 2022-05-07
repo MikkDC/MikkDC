@@ -3,7 +3,7 @@
 
 ### Hi there 👋 I'm Michael
 
-- 🔭 I’m currently working on Master Course Bootcamp at Codenation
+- 🔭 Completed Master Coding Bootcamp at Codenation
 - 🌱 I’m currently learning Javascript, React, HTML and CSS.
 - 💬 Ask me about anything!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/michael-clemson-652a57148/)
