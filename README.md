@@ -6,6 +6,5 @@
 - 🔭 Completed Master Coding Bootcamp at Codenation
 - 🌱 I’m currently learning Unity.
 - 💬 Ask me about anything!
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/michael-clemson-652a57148/)
 - ⚡ Fun fact: I used to code in COMMODORE 64 BASIC in the late 80s
 
